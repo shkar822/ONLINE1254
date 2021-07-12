@@ -7387,7 +7387,7 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("cardnumber:5285120133320904 11/22 securitycode : 801 Zip code : 46001");
+client.login("ODU0MjU2MjQyMTQxNjkxOTQ0.YOwpuQ.a3cj1lMo4uanwy0hzYmw2MdScZA");
 client2.login("");
 client3.login("");
 client4.login("");
